@@ -1,4 +1,5 @@
-![MasterPhoto](https://img.freepik.com/premium-photo/unlocking-power-data-analysis-exploring-concepts-with-computer-keyboard-mouse_1000124-76560.jpg)
+![MasterPhoto](https://img.freepik.com/premium-photo/computer-visualization-illustrating-statistical-investment-decision-making-methodology-business-big-data-financial-analysis_501705-3373.jpg)
+
 <h1 align="center">Hi 👋, I'm Temperance Godwin</h1>
 <h3 align="center">An Exceptional Data Analyst</h3>
 

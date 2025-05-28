@@ -1,3 +1,4 @@
+![Mainphoto](https://wallpapercave.com/wp/wp4748437.jpg)
 <h1 align="center">About Me</h1>
 
 [Temperance Godwin](https://www.linkedin.com/in/temperance-godwin/) is a results-driven Data & Product Analyst with over two years of experience turning complex data into clear, actionable insights. She is passionate about empowering aspiring tech professionals through hands-on training, mentorship, and simplified learning. With a strong focus on research, strategy, and career development, she creates impactful content that bridges the gap between data and decision-making helping individuals and businesses grow with clarity and confidence.

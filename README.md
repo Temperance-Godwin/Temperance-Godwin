@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Temperance Godwin</h1>
 <h3 align="center">An Exceptional Data Analyst</h3>
 
+[Temperance Godwin](https://www.linkedin.com/in/temperance-godwin/) is a results-driven Data & Product Analyst with over two years of experience turning complex data into clear, actionable insights. She is passionate about empowering aspiring tech professionals through hands-on training, mentorship, and simplified learning. With a strong focus on research, strategy, and career development, she creates impactful content that bridges the gap between data and decision-making—helping individuals and businesses grow with clarity and confidence.
+
 - 📝 I regularly write articles on [https://medium.com/@temperancegodwin](https://medium.com/@temperancegodwin)
 
 - 💬 Ask me about **Data Analysis, Data Visualization, Men**

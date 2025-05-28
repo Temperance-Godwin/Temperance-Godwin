@@ -1,4 +1,4 @@
-
+![MasterPhoto](https://image.lexica.art/md2/38d323ce-e7d2-4b02-8387-36e54636421c)
 <h1 align="center">Hi 👋, I'm Temperance Godwin</h1>
 <h3 align="center">An Exceptional Data Analyst</h3>
 

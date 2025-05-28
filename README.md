@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temperance-godwin&label=Profile%20views&color=0e75b6&style=flat" alt="temperance-godwin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temperance-godwin" alt="temperance-godwin" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@temperancegodwin](https://medium.com/@temperancegodwin)
 

@@ -1,4 +1,3 @@
-![Mainphoto](https://wallpapercave.com/wp/wp4748437.jpg)
 <h1 align="center">Hi there 👋, I'm Temperance</h1>
 
 
